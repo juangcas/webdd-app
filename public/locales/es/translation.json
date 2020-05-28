@@ -1,0 +1,204 @@
+{
+	"about": {
+		"aspects": {
+			"0": {
+				"description": "Soy una persona responsable, disciplinada, interesada por su constante cualificación con alta capacidades para el trabajo en equipo y bajo presión, de adaptación a  nuevas tecnologías informáticas, alto grado de compromiso por las actividades que desempeña, además de un buen nivel de proactividad y autoaprendizaje. Orientado al objetivo y al trabajo en un punto fijo dada mi discapacidad (silla de ruedas)",
+				"label": "Aspectos personales"
+			},
+			"1": {
+				"descriptions": [
+					"Desarrollo de aplicaciones en Java bajo la arquitectura J2EE, JEE",
+					"Desarrollo de lógica de negocio bajo la especificación EJB 3.0",
+					"Manejo de la persistencia con el patrón DAO (JPA)",
+					"Desarrollo de aplicaciones Web bajo la metodología workflow, modelado en XML",
+					"Desarrollo de aplicaciones con Microsoft Lightswitch, uso del lenguaje PL-SQL",
+					"Ambientes de desarrollo Jdeveloper 10g; EclipseIDE; NetBeans; PHPStorm; Microsoft visual studio",
+					"Editores de código livianos Sublime text 3; Atom; Notepad++; visual studio code",
+					"Diseño de bases de datos relacionales en Oracle, SQL Server, MySQL",
+					"Diseño de bases de datos no relacionales mongoDB, Firebase DB",
+					"Sistemas Operativos Unix Windows Linux Ubuntu y Mint",
+					"Servidores OC4J, Weblogic 12c, Apache, NodeJS",
+					"Páginas Web HTML, PHP, JSP",
+					"Frameworks FrontEnd Angular 6, 8, ReactJS",
+					"Creación de sitios web con WordPress y joomla!",
+					"Otros lenguajes PHP, C# .NET y JS-TS",
+					"Diseño web responsive y manejo de CSS",
+					"Contenedores: Docker",
+					"Administración de Servidores Web Linux"
+				],
+				"label": "Conocimientos específicos"
+			},
+			"2": {
+				"items": {
+					"0": {
+						"description": "INGENIERO DE SISTEMAS",
+						"title": "Título"
+					},
+					"1": {
+						"description": "16 de Febrero de 2007",
+						"title": "Fecha de grado"
+					},
+					"2": {
+						"description": "Universidad Nacional de Colombia",
+						"title": "Institución"
+					},
+					"3": {
+						"description": "Bogotá D.C.",
+						"title": "Ciudad"
+					}
+				},
+				"label": "Formación Universitaria"
+			},
+			"3": {
+				"descriptions": [
+					"Programación web",
+					"Master en JS, jQuery, Angular 6, NodeJS",
+					"Apps Web Progresivas PWA",
+					"Master en PHP (En curso)",
+					"Administración de Servidores Linux (En curso)"
+				],
+				"label": "Otros cursos"
+			},
+			"4": {
+				"get": "Obtener PDF",
+				"label": "Versión para imprimir",
+				"legend": "Si quieres, puedes obtener una copia lista para imprimir de mi hoja de vida",
+				"link": "Curriculum-es.pdf"
+			}
+		},
+		"buttons":{
+			"btnback": "Anterior",
+			"btnnext": "Siguiente",
+			"btnrestart": "Reiniciar"
+		},
+		"titles":{
+			"intro": "Este es un resumen de mi hoja de vida. Si quieres una versión para imprimir, puedes hacer clic en el último paso",
+			"title": "Sobre Mí"
+		}
+	},
+	"contact": {
+		"buttons":{
+			"btncancel": "Cancelar",
+			"btnsend": "Enviar"
+		},
+		"dialogs":{
+			"dialogErrMsg": "Ha ocurrido un error en el envío de su mensaje",
+			"dialogErrTit": "MenSaje de error en el envío",
+			"dialogOkMsg": "Se ha enviado correctamente su mensaje",
+			"dialogOkTit": "Mensaje de envío exítoso"
+		},
+		"form":{
+			"emailHint": "Escribe una dirección válida",
+			"emailPH": "Escribe tu dirección de corraeo electrónico",
+			"errEmail": "Por favor escribe una dirección válida de corraeo electrónico",
+			"errMax20": "Este campo deba tener máximo 60 caracteres",
+			"errNotAvailable": "Este componnente no se encuentra disponible por el momennto, mientras tanto puedes enviarme un correo a",
+			"errRequired": "Este campo es obligatorio",
+			"messageHint": "El mensaje es obligatorio",
+			"messajePH": "Escribe tu mensaje",
+			"nameHint": "El Nombre deba tener máximo 60 caracteres",
+			"namePH": "Escribe tu nombre"
+		},
+		"titles":{
+			"intro": "Si quieres, puedes enviarme un mensaje por aca o por coalquiera de mis redes sociales (barra inferior negra)",
+			"title": "Contacto"
+		}
+	},
+	"home": {
+		"services": {
+			"0": {
+				"description": "Ofrezco servicios de desarrollo web para crear y/o modificar sitios web o aplicaciones con las últimas tecnologías.",
+				"title": "Desarrollo WEB"
+			},
+			"1": {
+				"description": "Diseño de sitios web y aplicaciones adaptables a cualquier dispositivo.",
+				"title": "Diseño WEB"
+			},
+			"2": {
+				"description": "Puedo ser tu profesor en programación, matemáticas e inglés.",
+				"title": "Mentoría"
+			},
+			"3": {
+				"description": "Ofrezco este servicio para crear afiches, memes o lo que quieras con tus imágenes favoritas.",
+				"title": "Retoque Digital de Imágenes."
+			},
+			"4": {
+				"description": "Traduzco todo tipo de texto desde o hacia el idioma de tu elección.",
+				"title": "Traducción de Textos"
+			},
+			"5": {
+				"description": "Si tu empresa tiene un servidor                                                                                                  web Linux-AWS, puedo administrarlo de manera remota. (próximamente)",
+				"title": "Administración de Servidores"
+			}
+		},
+		"titles":{
+			"intro": "Pongo a tu disposición los siguientes servicios:",
+			"title": "Inicio"
+		}
+	},
+	"projects": {
+		"buttons":{
+			"btngo": "Ir al sitio",
+			"btnreturn": "Volver"
+		},
+		"data": {
+			"0": {
+				"category": "Personal-Profesional",
+				"date": "2018-11",
+				"description": "Sitio web creado para mostrar mis trabajos como desarrollador web freelance",
+				"image": "/proj/0-es.png",
+				"langs": "Angular 6, Firebase",
+				"name": "Este sitio",
+				"status": "Finalizado",
+				"url": "https://juangcaswebdd.com"
+			},
+			"1": {
+				"category": "Comercial-Turismo",
+				"date": "2019-00",
+				"description": "Se realizó el diseño inicial de este sitio web",
+				"image": "/proj/no-es.png",
+				"langs": "WordPress",
+				"name": "Más que un like - diseño inicial",
+				"status": "Finalizado",
+				"url": ""
+			},
+			"2": {
+				"category": "Personal-Profesional",
+				"date ": "2020-04",
+				"description": "Sitio web con varias mejoras creado para mostrar mis trabajos como desarrollador web freelance. Se deja 100% adaptabcle, se agrega traducción al inglés y se crea un sistema back para el envío de correos",
+				"image": "/proj/2-es.png",
+				"langs": "ReactJS, PHP 7",
+				"name": "Este sitio mejorado",
+				"status": "Finalizado",
+				"url": "https://juangcaswebdd.com"
+			},
+			"3": {
+				"category": "Comercial-Textiles",
+				"date": "2020-03",
+				"description": "Sitio de la empresa mencionada",
+				"image": "/proj/3.png",
+				"langs": "WordPress",
+				"name": "Sitio web de ExpoTextiles S.A.S.",
+				"status": "Suspendido",
+				"url": ""
+			}
+		},
+		"datitles": {
+			"short":{
+				"category": "Categoría",
+				"description": "Descripción",
+				"detail": "Detalles",
+				"image": "Imagen",
+				"langs": "Lenguajes",
+				"name": "Nombre",
+				"status": "Estado",
+				"url": "URL del sitio",
+				"yearmt": "Año - Mes"
+			}
+		},
+		"titles":{
+			"intro": "Este es un listado de los proyectos que he realizaado como desarrollador web freelance",
+			"title": "Proyectos"
+		}
+	}
+}

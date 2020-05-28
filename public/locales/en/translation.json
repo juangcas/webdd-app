@@ -1,0 +1,204 @@
+{
+	"about": {
+		"aspects": {
+			"0": {
+				"description": "I am a responsible, disciplined person, interested in his constant qualification with high capacities for teamwork and under pressure, adaptation to new computer technologies, high degree of commitment for the activities he performs, in addition to a good level of proactivity and self-learning . Oriented to the objective and work at a fixed point given my disability (wheelchair)",
+				"label": "Personal aspects"
+			},
+			"1": {
+				"descriptions": [
+					"Development of Java applications under the J2EE, JEE architecture",
+					"Development of business logic under the EJB 3.0 specification",
+					"Management of persistence with the DAO pattern (JPA)",
+					"Development of Web applications under the workflow methodology, XML modeling",
+					"Application development with Microsoft Lightswitch, use of the PL-SQL language",
+					"Jdeveloper 10g development environments; EclipseIDE; NetBeans; PHPStorm; Microsoft visual studio",
+					"Lightweight code editors Sublime text 3; Atom; Notepad; visual studio code",
+					"Design of relational databases in Oracle, SQL Server, MySQL",
+					"Design of non-relational databases mongoDB, Firebase DB",
+					"Operating Systems Unix Windows Linux Ubuntu and Mint",
+					"Servers OC4J, Weblogic 12c, Apache, NodeJS, AWS",
+					"Web pages HTML, PHP, JSP",
+					"Frameworks FrontEnd Angular 6, 8, ReactJS",
+					"Creating websites with WordPress and joomla!",
+					"Other languages PHP, C # .NET and JS-TS",
+					"Responsive web design and CSS management",
+					"Containers: Docker",
+					"Linux Web Server Administration"
+				],
+				"label": "Specific knowledge"
+			},
+			"2": {
+				"items": {
+					"0": {
+						"description": "SYSTEMS ENGINEER",
+						"title": "title"
+					},
+					"1": {
+						"description": "February 16, 2007",
+						"title": "Date of degree"
+					},
+					"2": {
+						"description": "National university of Colombia",
+						"title": "Institution"
+					},
+					"3": {
+						"description": "Bogotá D.C.",
+						"title": "city"
+					}
+				},
+				"label": "University education"
+			},
+			"3": {
+				"descriptions": [
+					"Web programming",
+					"Master at JS, jQuery, Angular 6, NodeJS",
+					"PWA Progressive Web Apps",
+					"Master in PHP (In progress)",
+					"Linux Server Administration (In progress)"
+				],
+				"label": "Other courses"
+			},
+			"4": {
+				"get": "Get PDF",
+				"label": "Printable version",
+				"legend": "If you want, you can get a print-ready copy of my resume",
+				"link": "Curriculum-en.pdf"
+			}
+		},
+		"buttons":{
+			"btnback": "Previous",
+			"btnnext": "following",
+			"btnrestart": "Restart"
+		},
+		"titles":{
+			"intro": "This is a summary of my resume. If you want a printable version, you can click on the last step",
+			"title": "About"
+		}
+	},
+	"contact": {
+		"buttons":{
+			"btncancel": "Cancel",
+			"btnsend": "Submit"
+		},
+		"dialogs":{
+			"dialogErrMsg": "An error has occurred in sending your message",
+			"dialogErrTit": "Error message in the shipment",
+			"dialogOkMsg": "Your message has been sent successfully",
+			"dialogOkTit": "Successful Shipping Message"
+		},
+		"form":{
+			"emailHint": "Enter a valid address",
+			"emailPH": "Enter your email address",
+			"errEmail": "Please enter a valid email address",
+			"errMax20": "This field must have a maximum of 60 characters",
+			"errNotAvailable": "This component is not available at the moment, meanwhile you can send me an email to",
+			"errRequired": "This field is required",
+			"messageHint": "The message is mandatory.",
+			"messajePH": "Write your message",
+			"nameHint": "Name must have a maximum of 60 characters",
+			"namePH": "Write your name"
+		},
+		"titles":{
+			"intro": "If you want, you can send me a message here or through any of my social networks (black bottom bar)",
+			"title": "Contact"
+		}
+	},
+	"home": {
+		"services": {
+			"0": {
+				"description": "I offer web development services to create and/or modify websites or applications with the latest technologies.",
+				"title": "Web development"
+			},
+			"1": {
+				"description": "Website design and applications adaptable to any device.",
+				"title": "Web design"
+			},
+			"2": {
+				"description": "I can be your teacher in programming, math and English.",
+				"title": "Mentoring"
+			},
+			"3": {
+				"description": "I offer this service to create posters, memes or whatever you want with your favorite images.",
+				"title": "Digital retouching of images."
+			},
+			"4": {
+				"description": "I translate all types of text from or to the language of your choice.",
+				"title": "Translation of texts"
+			},
+			"5": {
+				"description": "If your company has a Linux-AWS web server, I can manage it remotely. (soon)",
+				"title": "Server Management"
+			}
+		},
+		"titles":{
+			"intro": "I put at your disposal the following services:",
+			"title": "Home"
+		}
+	},
+	"projects": {
+		"buttons":{
+			"btngo": "Go to the site",
+			"btnreturn": "Return"
+		},
+		"data": {
+			"0": {
+				"category": "Personal-Professional",
+				"date": "2018-11",
+				"description": "Website created to show my work as a freelance web developer",
+				"image": "/proj/0-en.png",
+				"langs": "Angular 6, Firebase",
+				"name": "This site",
+				"status": "Finished",
+				"url": "https://juangcaswebdd.com"
+			},
+			"1": {
+				"category": "Commercial-Tourism",
+				"date": "2019-00",
+				"description": "The initial design of this website was made",
+				"image": "/proj/no-en.png",
+				"langs": "Wordpress",
+				"name": "More than a like - initial design",
+				"status": "Finished",
+				"url": ""
+			},
+			"2": {
+				"category": "Personal-Professional",
+				"date": "2020-02",
+				"description": "Website with several improvements created to show my work as a freelance web developer. 100% adaptabcle is left, English translation is added and a back system is created for sending emails",
+				"image": "/proj/2-en.png",
+				"langs": "ReactJS, PHP 7",
+				"name": "This site improved",
+				"status": "Finished",
+				"url": "https://juangcaswebdd.com"
+			},
+			"3": {
+				"category": "Commercial-Textiles",
+				"date": "2020-03",
+				"description": "Site of the mentioned company",
+				"image": "/proj/3.png",
+				"langs": "WordPress",
+				"name": "ExpoTextiles S.A.S. website",
+				"status": "Suspended",
+				"url": ""
+			}
+		},
+		"datitles": {
+			"short":{
+				"category": "Category",
+				"description": "Description",
+				"detail": "Details",
+				"image": "Image",
+				"langs": "Languages",
+				"name": "Name",
+				"url": "Site Url",
+				"status": "Status",
+				"yearmt": "Year - Month"
+			}
+		},
+		"titles":{
+			"intro": "This is a list of the projects that I have done as a freelance web developer",
+			"title": "Projects"
+		}
+	}
+}
